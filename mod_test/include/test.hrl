@@ -1,0 +1,1 @@
+-record(test, {test = test :: test | shit}).

@@ -1,0 +1,5 @@
+author: "Munkhuu"
+category: "test"
+summary: "test"
+home: "https://github.com/HeroPD"
+url: "https://github.com/HeroPD"
